@@ -1,0 +1,80 @@
+
+
+footer {
+    border-top: 8px solid #4aaaa5;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    color: white;
+    font-size: 10px;
+    padding: 40px 0px 7px 0px;
+    margin: 50px 0px 0px 0px:
+}
+.container {
+    width: 960px;
+    
+    
+}
+nav {
+    margin-top: 22px;
+}
+
+.piping {
+    color: lightgrey;
+    margin: 5px;
+    padding: 3px;
+}
+
+.bg-light {
+    background-color: white !important;
+}
+body {
+    /* This pattern is downloaded from www.subtlepatterns.com 
+If you need more, that's where to get'em.*/
+background-image: url("../images/blue-snow.png");
+
+}
+#headd {
+    width: 100%;
+    background-color: #ffffff;
+}
+.zxcv {
+    
+   margin: 0 auto;
+    width: 960px;
+  
+    
+    
+    border: #cccccc;
+}
+
+#name {
+    background-color: teal;
+    color: white;
+    padding: 30px;
+    float: left;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h1 {
+    
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+
+}
+h2 {
+    
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: teal;
+
+}
+.maincontent {
+    padding: 0px 0px 0px 0px;
+    background-color: white;
+   }
