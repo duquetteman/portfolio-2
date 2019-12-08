@@ -23,8 +23,8 @@ footer {
     
 }
 #aboutmehead {
-    margin-top: 50ps;
-    float: left;
+    
+   
     font-weight: bolder;
     letter-spacing: 1px;
 
@@ -48,7 +48,14 @@ footer {
 }
 .nav {
     margin-top: 22px;
-    float: right; 
+    padding-left: 30px;
+   
+
+    
+}
+
+.fw {
+    width: 100%;
     
 }
 
@@ -61,10 +68,9 @@ footer {
     padding: 7px;
 }
 
-.col-md-4 {
-    margin-right: 0 !importan;
 
-}
+
+
 .bg-light {
     background-color: white !important;
 }
@@ -125,5 +131,71 @@ h2 {
     padding: 25px;
     background-color: white;
     margin: 50px 0px 125px 0px;
+    
 
    }
+
+.btn {
+    background-color: teal;
+}
+
+.apple {
+    
+    Position: relative;
+    margin: 30px;
+    width: 275px;
+    Height: 200px;
+    background-image: url("../images/Apple.jpg");
+    float: left;
+    
+}
+
+.Pear {
+    Position: relative;
+    margin: 30px;
+    width: 275px;
+    Height: 200px;
+    background-image: url("../images/Pears.jpg");
+    float: left;
+
+}
+
+.grape {
+    Position: relative;
+    margin: 30px;
+    width: 275px;
+    Height: 200px;
+    background-image: url("../images/grape.jpg");
+    float: left;
+
+}
+
+.dried {
+    Position: relative;
+    margin: 30px;
+    width: 275px;
+    Height: 200px;
+    background-image: url("../images/Dried.jpg");
+    float: left;
+
+}
+
+.watermelon {
+    Position: relative;
+    margin: 30px;
+    width: 275px;
+    Height: 200px;
+    background-image: url("../images/Watermelon.jpg");
+    float: left;
+
+}
+.wrapper {
+    
+    background-color: teal;
+    color: white;
+    position: absolute;
+    bottom: 8px;
+    padding: 6px;
+    width: 100%;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
