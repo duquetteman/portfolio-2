@@ -46,13 +46,8 @@ footer {
     height: 2px;
     margin: 15px 0px 30px 10px;
 }
-.nav {
-    margin-top: 22px;
-    padding-left: 30px;
-   
 
-    
-}
+
 
 .fw {
     width: 100%;
@@ -63,11 +58,16 @@ footer {
     padding: 5px 0px 0px 0px;
 }
 .piping {
-    color: lightgrey;
-    margin: 5px;
-    padding: 7px;
+    color: darkgrey;
+    margin: 0px 30px 0px 30px;
+    font-size: 20px
+ 
 }
 
+.linknav {
+    color: darkgrey;
+    font-size: 20px
+}
 
 
 
@@ -91,21 +91,18 @@ background-image: url("../images/blue-snow.png");
     border: #cccccc;
 }
 
-.navbar {
-    margin: 0 !important;
-    padding: 0;
-    
-}
+
 
 
 #name {
     background-color: teal;
-    color: white;
-    padding: 30px;
+    color: #ffffff;
+    padding: 20px;
     float: left;
     font-size: 30px;
-    margin: 0;
     letter-spacing: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
 }
 
 .row {
@@ -199,3 +196,4 @@ h2 {
     width: 100%;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
