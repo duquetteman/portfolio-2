@@ -9,9 +9,10 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
-<!--Comment-->
+<!-- When I started the project, I put the navbar elements in a row. I used .col-md.8 and .col-md.4, putting the navbar links in the md.4 to push them to the right. Eventually, it was disocvered that this method wasn't collapsing the elements as expected so I moved the <nav> elements out of the bootstrap row format into a new, separate element on the page. That allowed better control of the movement when the page collapses. Comment-->
 <body>
     <nav class="navbar pb-0 pt-0 navbar-light bg-light">
+        <!--pb-0 and pt-0 are bootstrap classes that set the padding bottom (pb) and padding top (pt) to zero. -->
         <div class="container">
             <span class="navbar-brand mb-0 h1" id="name">Patrick Duquette</span>
             <ul class="nav justify-content-end">
