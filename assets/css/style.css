@@ -110,7 +110,7 @@ h2 {
     margin: 30px;
     width: 275px;
     Height: 200px;
-    background-image: url("../images/Pears.jpg");
+    background-image: url("../images/recipe-generator.png");
     float: left;
 
 }
@@ -120,7 +120,7 @@ h2 {
     margin: 30px;
     width: 275px;
     Height: 200px;
-    background-image: url("../images/grape.jpg");
+    background-image: url("../images/day-planner.png");
     float: left;
 
 }
@@ -130,7 +130,7 @@ h2 {
     margin: 30px;
     width: 275px;
     Height: 200px;
-    background-image: url("../images/Dried.jpg");
+    background-image: url("../images/note-taker.png");
     float: left;
 
 }
